@@ -1,0 +1,108 @@
+Breakfast
+- Omelette: 2 eggs, ham, cheese.
+- Static. Only so many a week.
+- Account for the calories + protein in advance.
+
+Lunch / Dinner
+- Split meal up into composite parts
+    - Protein, vegetables, liquid, base
+- Could be interactive
+    - Chef chooses the vegetables + protein + bases
+    - Pick liquids + required number of spices
+    - Chef calculates the quantities
+    - Chef allocates any spare calories
+
+Snacks
+- Apple + pear during working week
+- Some specified budget?
+
+Beer / Slippage
+- Either some amount of specified calories or the remaining budget?
+
+
+---- UI sketches ----
+
+##########################################################################
+
+Breakfast
+x6 eggs, large.
+300g honey roast ham.
+10g cheese, mature cheddar.
+
+720 calories. X grams protein. Y grams carbs. Z grams fats.
+
+Continue
+
+##########################################################################
+
+Lunch / Dinner
+
+Proteins:
+x3 Chicken breast, 200g.
+x1 Pork loin, unit.
+x2 Cod, unit.
+
+Vegetables:
+...
+
+Bases:
+...
+
+Total 10000 calories. X grams protein. Y grams carbs. Z grams fats.
+
+Choose (6) or more spices/seasoning's:
+[ ] Garlic
+[ ] Ginger
+...
+
+Choose liquids:
+[ ] Oyster sauce.   x calories per 10ml.
+[ ] Soy sauce.      x calories per 10ml.
+...
+
+Continue
+
+##########################################################################
+
+Calories remaining
+
+Snacks:
+[0] Croissant
+[0] Pain au chocolat
+[0] ...
+
+Beer:
+[0] Pints
+
+##########################################################################
+
+Calculating
+
+[------------------------------------------------                        ]
+
+##########################################################################
+
+Summary
+
+Breakfast
+- 6 eggs
+- ...
+
+Lunch / Dinner
+
+Proteins:
+...
+
+Vegetables:
+...
+
+Bases:
+...
+
+Liquids:
+...
+
+Spices/seasoning's:
+...
+
+##########################################################################
