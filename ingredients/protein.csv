@@ -1,4 +1,4 @@
-meat, pack_size, portion_size, calories_pp, fat_pp, carbs_pp, fiber_pp, protein_pp, notes
+ingredient, pack_size, portion_size, calories_pp, fat_pp, carbs_pp, fiber_pp, protein_pp, notes
 
 Chicken - Breast, Gram(650), Gram(145), 154, 1.6, 0.0, 0.0, 34.8, ""
 Chicken - Thigh; Fillet, Gram(600), Gram(120), 205, 12.6, 0.1, 0.1, 22.8, ""

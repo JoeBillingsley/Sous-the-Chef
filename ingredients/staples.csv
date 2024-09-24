@@ -1,0 +1,24 @@
+ingredient, pack_size, portion_size, calories_pp, fat_pp, carbs_pp, fiber_pp, protein_pp, notes
+
+Dried Pasta - White, Gram(500), Gram(75), 300, 1.1, 60.7, 3.7, 9.9, ""
+Dried Pasta - Whole Wheat, Gram(500), Gram(75), 286, 1.4, 55.9, 6.5, 9.2, ""
+
+Rice - Jasmine, Gram(1000), Gram(75), 320, 2.4, 68.2, 1.2, 5.9, ""
+Rice - Risotto, Gram(1000), Gram(75), 266, 0.9, 58.7, 0.8, 5.5, ""
+Rice - Basmati, Gram(1000), Gram(75), 398, 1.2, 87.4, 1.2, 8.8, ""
+Rice - Long Grain, Gram(1000), Gram(75), 280, 1.2, 59.5, 3.5, 6.2, "" 
+
+Noodles - Egg, Unit(4), Unit(1), 206, 1.2, 40.0, 2.3, 7.8, ""
+
+Cous Cous - Plain, Gram(500), Gram(80), 132, 0.7, 25.0, 2.4, 5.0, ""
+
+Bulgar Wheat - Plain, Gram(500), Gram(30), 81, 0.6, 15.0, 1.8, 2.8, ""
+Pearl Barley - Plain, Gram(500), Gram(25), 89, 0.6, 16.6, 3.6, 2.4, ""
+Buckwheat - Plain, Gram(500), Gram(40), 93, 1.2, 16.8, 1.4, 3.1, ""
+
+Quinoa - Plain, Gram(300), Gram(30), 113, 2.2, 18.2, 3.4, 3.5, ""
+
+Lentils - Split; Red, Gram(500), Gram(30), 77, 0.6, 9.4, 4.9, 5.8, ""
+Lentils - Vertes, Gram(500), Gram(35), 141, 0.5, 20.0, 7.0, 10.7, ""
+
+// TODO: Breads
