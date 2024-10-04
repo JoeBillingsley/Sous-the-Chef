@@ -1,81 +1,55 @@
-ingredient, pack_size, portion_size, calories_pp, fat_pp, carbs_pp, fiber_pp, protein_pp, notes
-
-Potatoes - Large; White, Gram(2000), Gram(250), 432, 14.3, 66.0, 6.8, 6.5, "There may be some differences in different potato varieties, but they'll be close enough to not matter."
-Potatoes - Baby; White, Gram(750), Gram(175), 125, 0.2, 26.1, 3.2, 3.2, ""
-Potatoes - Large; Sweet, Gram(1000), Gram(100), 97, 0.3, 21.3, 2.3, 1.1, ""
-
-Brocolli - Large, Gram(380), Gram(190), 76, 1.8, 3.6, 5.2, 8.8, ""
-Brocolli - Tenderstem, Gram(200), Gram(100), 38, 0.9, 1.8, 2.6, 4.4, ""
-
-Parsnips - Whole, Gram(500), Gram(100), 75, 0.3, 18.0, 4.9, 1.2, ""
-
-Onion - Red, Unit(3), Unit(1), 39, 0.1, 8.0, 1.1, 1.0, ""
-Onion - Brown, Unit(3), Unit(1), 39, 0.1, 8.0, 1.1, 1.0, ""
-Onion - Shallots, Gram(400), Gram(100), 24, 0.2, 3.3, 1.4, 1.5, ""
-
-Mushrooms - Button, Gram(200), Gram(80), 7, 0.2, 0.2, 0.6, 0.8, ""
-Mushrooms - Chestnut, Gram(250), Gram(100), 8, 0.2, 0.3, 0.7, 1.0, ""
-Mushrooms - Oyster, Gram(150), Gram(75), 7, 0.2, 0.2, 0.6, 0.8, ""
-Mushrooms - Shiitake, Gram(125), Gram(63), 8, 0.2, 0.1, 0.7, 1.0, ""
-
-Peppers - Red, Gram(150), Gram(100), 31, 0.3, 6.0, 2.1, 1.0, ""
-Peppers - Yellow, Gram(150), Gram(100), 27, 0.2, 6.0, 0.9, 1.0, ""
-Peppers - Green, Gram(150), Gram(100), 20, 0.2, 4.6, 1.7, 0.9, ""
-
-Cabbage - White, Gram(700), Gram(100), 29, 0.1, 4.8, 2.0, 1.2, ""
-Cabbage - Savoy, Gram(700), Gram(100), 36, 0.2, 4.1, 4.1, 2.4, ""
-Cabbage - Sweetheart, Gram(700), Gram(100), 34, 0.2, 4.4, 3.5, 1.8, ""
-Cabbage - Red, Gram(700), Gram(100), 27, 0.3, 3.8, 2.5, 1.1, ""
-
-Leeks - Whole, Gram(500), Gram(83), 24, 0.2, 3.3, 2.2, 1.2, "" 
-
-Swede - Whole, Gram(400), Gram(50), 23, 0.2, 4.0, 1.5, 0.6, ""
-
-Brussel Sprouts - Whole, Gram(200), Gram(100), 51, 1.4, 4.1, 4.1, 3.5, ""
-
-Corn - Baby, Gram(130), Gram(65), 30, 0.3, 4.2, 2.2, 1.7, ""
-
-Kale - Curly, Gram(180), Gram(90), 32, 1.3, 11.1, 2.5, 2.7, ""
-Kale - Cavolo Nero, Gram(200), Gram(100), 40, 1.6, 1.4, 3.1, 3.4, ""
-
-Cauliflower - Whole, Gram(500), Gram(100), 38, 0.9, 3.0, 1.8, 3.6, ""
-
-Carrots - Orange; Whole, Gram(1000), Gram(100), 32, 0.3, 6.2, 1.7, 0.4, ""
-
-Green Beans - Fine, Gram(200), Gram(80), 25, 0.3, 2.5, 2.7, 1.7, "Fine or otherwise, same outcome."
-Green Beans - Runner, Gram(180), Gram(90), 20, 0.5, 2.1, 1.7, 1.1, ""
-Green Beans - Mangetout; Mangetout; Whole, Gram(180), Gram(90), 34, 0.2, 3.7, 2.3, 3.3, ""
-
-Swiss Chard - Rainbow, Gram(200), Gram(50), 11, 0.1, 1.5, 0.8, 0.9, ""
-Pak Choi - Whole, Gram(250), Gram(125), 25, 0.3, 2.8, 1.3, 1.8, ""
-Choi Sum - Whole, Gram(200), Gram(100), 14, 0.2, 1.4, 1.2, 1.0, ""
-Mooli - Whole, Gram(100), Gram(100), 16, 0.1, 2.9, 0.0, 0.8, ""
-
-Fennel - Whole, Gram(300), Gram(100), 31, 0.2, 7.0, 3.1, 1.2, ""
-Cassava - Whole, Gram(200), Gram(100), 155, 0.2, 36.8, 1.6, 0.6, ""
-
-Okra - Whole, Gram(160), Gram(80), 32, 0.8, 2.4, 3.2, 2.2, ""
-Aubergine - Whole, Gram(200), Gram(100), 20, 0.4, 2.2, 2.0, 0.9, ""
-Courgette - Whole, Gram(200), Gram(100), 20, 0.4, 1.8, 0.9, 1.8, ""
-
-Samphire - Whole, Gram(90), Gram(30), 4, 0.1, 0.2, 0.3, 0.4, ""
-
-Spinach - Baby, Gram(250), Gram(125), 25, 0.8, 0.3, 1.5, 3.3, "" 
-
-Asparagus - Tips, Gram(125), Gram(63), 18, 0.4, 1.2, 1.2, 1.8, "Approx. half a pack." 
-
-Chillies - Red; Medium, Gram(60), Gram(30), 20, 1.5, 0.2, 0, 1.0, ""
-Chillies - Green; Finger, Gram(80), Gram(30), 20, 1.5, 0.9, 0.5, 0.3, ""
-
-Spring Greens - Whole, Gram(200), Gram(100), 43, 0.5, 4.1, 2.4, 3.4, ""
- 
-Beans - Pinto, Gram(500), Gram(35), 130, 0.8, 12.5, 15.1, 10.5, ""
-Beans - Black Turtle, Gram(500), Gram(40), 94, 0.9, 11.8, 7.0, 6.4, ""
-Beans - Cannellini, Gram(500), Gram(35), 76, 0.7, 8.3, 7.2, 5.4, ""
-Beans - Chickpeas, Gram(2000), Gram(100), 378, 6.0, 63.0, 12.2, 20.5, ""
-Beans - Kidney, Gram(500), Gram(100), 333, 0.8, 60.0, 25.0, 24.0, ""
-
-Tomatoes - Chopped; Canned, Unit(4), Unit(1), 94, 0.8, 14.4, 4.0, 5.2, ""
-
-Sweetcorn - Supersweet; Frozen, Gram(1000), Gram(80), 63, 1.1, 9.2, 3.4, 2.2, ""
-Peas - Garden; Frozen, Gram(1000), Gram(80), 49, 0.4, 7.1, 5.0, 4.2, "" 
+name,pack_size,portion_size,calories_pp,fat_pp,carbs_pp,fiber_pp,protein_pp,notes
+Potatoes - Large; White,Gram(2000),Gram(250),432,14.3,66.0,6.8,6.5,"There may be some differences in different potato varieties,but they'll be close enough to not matter."
+Potatoes - Baby; White,Gram(750),Gram(175),125,0.2,26.1,3.2,3.2,""
+Potatoes - Large; Sweet,Gram(1000),Gram(100),97,0.3,21.3,2.3,1.1,""
+Brocolli - Large,Gram(380),Gram(190),76,1.8,3.6,5.2,8.8,""
+Brocolli - Tenderstem,Gram(200),Gram(100),38,0.9,1.8,2.6,4.4,""
+Parsnips - Whole,Gram(500),Gram(100),75,0.3,18.0,4.9,1.2,""
+Onion - Red,Unit(3),Unit(1),39,0.1,8.0,1.1,1.0,""
+Onion - Brown,Unit(3),Unit(1),39,0.1,8.0,1.1,1.0,""
+Onion - Shallots,Gram(400),Gram(100),24,0.2,3.3,1.4,1.5,""
+Mushrooms - Button,Gram(200),Gram(80),7,0.2,0.2,0.6,0.8,""
+Mushrooms - Chestnut,Gram(250),Gram(100),8,0.2,0.3,0.7,1.0,""
+Mushrooms - Oyster,Gram(150),Gram(75),7,0.2,0.2,0.6,0.8,""
+Mushrooms - Shiitake,Gram(125),Gram(63),8,0.2,0.1,0.7,1.0,""
+Peppers - Red,Gram(150),Gram(100),31,0.3,6.0,2.1,1.0,""
+Peppers - Yellow,Gram(150),Gram(100),27,0.2,6.0,0.9,1.0,""
+Peppers - Green,Gram(150),Gram(100),20,0.2,4.6,1.7,0.9,""
+Cabbage - White,Gram(700),Gram(100),29,0.1,4.8,2.0,1.2,""
+Cabbage - Savoy,Gram(700),Gram(100),36,0.2,4.1,4.1,2.4,""
+Cabbage - Sweetheart,Gram(700),Gram(100),34,0.2,4.4,3.5,1.8,""
+Cabbage - Red,Gram(700),Gram(100),27,0.3,3.8,2.5,1.1,""
+Leeks - Whole,Gram(500),Gram(83),24,0.2,3.3,2.2,1.2,"" 
+Swede - Whole,Gram(400),Gram(50),23,0.2,4.0,1.5,0.6,""
+Brussel Sprouts - Whole,Gram(200),Gram(100),51,1.4,4.1,4.1,3.5,""
+Corn - Baby,Gram(130),Gram(65),30,0.3,4.2,2.2,1.7,""
+Kale - Curly,Gram(180),Gram(90),32,1.3,11.1,2.5,2.7,""
+Kale - Cavolo Nero,Gram(200),Gram(100),40,1.6,1.4,3.1,3.4,""
+Cauliflower - Whole,Gram(500),Gram(100),38,0.9,3.0,1.8,3.6,""
+Carrots - Orange; Whole,Gram(1000),Gram(100),32,0.3,6.2,1.7,0.4,""
+Green Beans - Fine,Gram(200),Gram(80),25,0.3,2.5,2.7,1.7,"Fine or otherwise,same outcome."
+Green Beans - Runner,Gram(180),Gram(90),20,0.5,2.1,1.7,1.1,""
+Green Beans - Mangetout; Mangetout; Whole,Gram(180),Gram(90),34,0.2,3.7,2.3,3.3,""
+Swiss Chard - Rainbow,Gram(200),Gram(50),11,0.1,1.5,0.8,0.9,""
+Pak Choi - Whole,Gram(250),Gram(125),25,0.3,2.8,1.3,1.8,""
+Choi Sum - Whole,Gram(200),Gram(100),14,0.2,1.4,1.2,1.0,""
+Mooli - Whole,Gram(100),Gram(100),16,0.1,2.9,0.0,0.8,""
+Fennel - Whole,Gram(300),Gram(100),31,0.2,7.0,3.1,1.2,""
+Cassava - Whole,Gram(200),Gram(100),155,0.2,36.8,1.6,0.6,""
+Okra - Whole,Gram(160),Gram(80),32,0.8,2.4,3.2,2.2,""
+Aubergine - Whole,Gram(200),Gram(100),20,0.4,2.2,2.0,0.9,""
+Courgette - Whole,Gram(200),Gram(100),20,0.4,1.8,0.9,1.8,""
+Samphire - Whole,Gram(90),Gram(30),4,0.1,0.2,0.3,0.4,""
+Spinach - Baby,Gram(250),Gram(125),25,0.8,0.3,1.5,3.3,"" 
+Asparagus - Tips,Gram(125),Gram(63),18,0.4,1.2,1.2,1.8,"Approx. half a pack." 
+Chillies - Red; Medium,Gram(60),Gram(30),20,1.5,0.2,0,1.0,""
+Chillies - Green; Finger,Gram(80),Gram(30),20,1.5,0.9,0.5,0.3,""
+Spring Greens - Whole,Gram(200),Gram(100),43,0.5,4.1,2.4,3.4,""
+Beans - Pinto,Gram(500),Gram(35),130,0.8,12.5,15.1,10.5,""
+Beans - Black Turtle,Gram(500),Gram(40),94,0.9,11.8,7.0,6.4,""
+Beans - Cannellini,Gram(500),Gram(35),76,0.7,8.3,7.2,5.4,""
+Beans - Chickpeas,Gram(2000),Gram(100),378,6.0,63.0,12.2,20.5,""
+Beans - Kidney,Gram(500),Gram(100),333,0.8,60.0,25.0,24.0,""
+Tomatoes - Chopped; Canned,Unit(4),Unit(1),94,0.8,14.4,4.0,5.2,""
+Sweetcorn - Supersweet; Frozen,Gram(1000),Gram(80),63,1.1,9.2,3.4,2.2,""
+Peas - Garden; Frozen,Gram(1000),Gram(80),49,0.4,7.1,5.0,4.2,"" 
