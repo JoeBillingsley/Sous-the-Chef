@@ -7,10 +7,10 @@ Lunch / Dinner
 - Split meal up into composite parts
     - Protein, vegetables, liquid, base
 - Could be interactive
-    - Chef chooses the vegetables + protein + bases
+    - Sous chooses the vegetables + protein + bases
     - Pick liquids + required number of spices
-    - Chef calculates the quantities
-    - Chef allocates any spare calories
+    - Sous calculates the quantities
+    - Sous allocates any spare calories
 
 Snacks
 - Apple + pear during working week
@@ -18,6 +18,9 @@ Snacks
 
 Beer / Slippage
 - Either some amount of specified calories or the remaining budget?
+
+
+Might want to split out some of the 'staples'.
 
 
 ---- UI sketches ----
