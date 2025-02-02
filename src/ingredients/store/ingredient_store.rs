@@ -1,27 +1,17 @@
-use core::panic;
-use std::fs::File;
-
-use glob::glob;
-
 use crate::ingredients::model::ingredients::Ingredient;
+use core::panic;
+use glob::glob;
+use std::{fs::File, path::Path};
 
 pub struct IngredientStore {
-    glob: String,
+    ingredients: Vec<Ingredient>,
 }
 
 impl IngredientStore {
-    pub fn default() -> IngredientStore {
-        Self::new("./ingredients", "*.csv")
-    }
+    pub fn new(ingredients_folder: &str) -> Self {
+        let ingredients_path = Path::new(ingredients_folder).join("*.csv");
 
-    pub fn new(ingredients_path: &str, file_extension: &str) -> Self {
-        Self {
-            glob: ingredients_path.to_owned() + "/" + file_extension,
-        }
-    }
-
-    pub fn load_ingredients(&self) -> Vec<Ingredient> {
-        glob(&self.glob)
+        let ingredients = glob(&ingredients_path.to_str().unwrap())
             .expect("Failed to process glob pattern")
             .flat_map(|file| match file {
                 Ok(file_path) => {
@@ -34,6 +24,15 @@ impl IngredientStore {
                 }
                 Err(error) => panic!("Error processing file: {error}"),
             })
-            .collect()
+            .collect();
+
+        Self { ingredients }
+    }
+
+    pub fn find_by_name(&self, name: &str) -> Option<Ingredient> {
+        self.ingredients
+            .iter()
+            .find(|ingredient| ingredient.name.to_lowercase() == name.to_lowercase())
+            .cloned()
     }
 }

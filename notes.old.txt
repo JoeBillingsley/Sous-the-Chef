@@ -22,7 +22,6 @@ Beer / Slippage
 
 Might want to split out some of the 'staples'.
 
-
 ---- UI sketches ----
 
 ##########################################################################

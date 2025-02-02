@@ -2,7 +2,7 @@ name,pack_size,portion_size,calories_pp,fat_pp,carbs_pp,fiber_pp,protein_pp,note
 Chicken - Breast,Gram(650),Gram(145),154,1.6,0.0,0.0,34.8,""
 Chicken - Thigh; Fillet,Gram(600),Gram(120),205,12.6,0.1,0.1,22.8,""
 Chicken - Whole,Gram(1400),Gram(100),198,13.1,0.0,0.0,20.0,""
-Egg - Chicken,Unit(6),Unit(1),66,5.54,4.18,0.137,0.0,""
+Egg - Chicken,Unit(6),Unit(1),66,5.54,4.18,0.137,6.0,""
 Turkey - Breast,Gram(380),Gram(108),128,2.4,0.3,0.5,26.0,""
 Turkey - Mince; 2% Fat,Gram(500),Gram(125),148,2.1,0.6,0.6,31.3,""
 Pork - Shoulder; Steak,Gram(700),Gram(175),295,18.2,0.0,0.0,32.7,""

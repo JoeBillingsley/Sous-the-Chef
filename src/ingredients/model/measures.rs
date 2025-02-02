@@ -1,4 +1,4 @@
-#[derive(Debug, serde::Deserialize)]
+#[derive(Clone, Copy, Debug, serde::Deserialize)]
 pub enum Measure {
     Ml(usize),
     Gram(usize),

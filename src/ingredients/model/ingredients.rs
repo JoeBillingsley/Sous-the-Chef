@@ -1,7 +1,7 @@
 use super::measures::Measure;
 use serde::{Deserialize, Deserializer}; // 1.0.94
 
-#[derive(Debug, Deserialize)]
+#[derive(Clone, Debug, Deserialize)]
 pub struct Ingredient {
     pub name: String,
     #[serde(deserialize_with = "from_enum")]

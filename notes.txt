@@ -1,0 +1,4 @@
+Just a way to standardise recipes
+- Simple tool to calculate how to portion recipes for batch cooking
+- Assume X calories for lunch, Y calories for dinner, Z calories for other where X + Y + Z = Target calories
+- Given a recipe, calculates how many lunch/dinner portions it should be
